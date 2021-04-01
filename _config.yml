@@ -30,7 +30,7 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
-remote_theme: minima
+remote_theme: jekyll/minima
 lang: ja-JP
 plugins:
   - jekyll-feed
