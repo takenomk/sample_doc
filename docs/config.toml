@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://takenomk.github.io/sample_doc/"
 languageCode = "ja"
 title = "Hugoによるドキュメントサンプル"
 theme = "hugo-theme-learn"
+publishDir = "docs"
