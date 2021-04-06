@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ほにゃららドキュメント一覧 on Hugoによるドキュメントサンプル</title>
+    <link>https://takenomk.github.io/sample_doc/</link>
+    <description>Recent content in ほにゃららドキュメント一覧 on Hugoによるドキュメントサンプル</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 06 Apr 2021 14:31:30 +0900</lastBuildDate><atom:link href="https://takenomk.github.io/sample_doc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>リファレンス</title>
+      <link>https://takenomk.github.io/sample_doc/reference/</link>
+      <pubDate>Tue, 06 Apr 2021 14:38:00 +0900</pubDate>
+      
+      <guid>https://takenomk.github.io/sample_doc/reference/</guid>
+      <description>いいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい</description>
+    </item>
+    
+    <item>
+      <title>仕様書</title>
+      <link>https://takenomk.github.io/sample_doc/specification/</link>
+      <pubDate>Tue, 06 Apr 2021 14:38:00 +0900</pubDate>
+      
+      <guid>https://takenomk.github.io/sample_doc/specification/</guid>
+      <description>入力仕様 いいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい
+1, hoge, weif8 2, fuga, wef8 3, eeee, fefe 出力仕様 いいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい</description>
+    </item>
+    
+  </channel>
+</rss>
